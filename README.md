@@ -3,7 +3,7 @@
 ## 👤 Identificação
 
 * **Nome completo:** Bernardo Rocha Fernando
-* **Curso:**Ciências da Computação
+* **Curso:Ciências da Computação
 
 
 # ConectaBus
